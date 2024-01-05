@@ -1,5 +1,14 @@
 # Building-Secure-Firmware-translation
-Building Secure Firmware中文翻译
+<font size=5>Building Secure Firmware中文翻译</font>
+
+<font size=4>Building Secure Firmware</font>
+
+<font size=3>Armoring the Foundation of the Platform</font>
+
+<font size=4>构建安全固件</font>
+
+<font size=3>铠装平台基础</font>
+
 
 ## 第一部分
 [概述](第一部分：概述.md)
