@@ -9,6 +9,7 @@
 
 <font size=3>铠装平台基础</font>
 
+访问原文请点击[Here](https://link.springer.com/content/pdf/10.1007/978-1-4842-6106-4.pdf)
 
 ## 第一部分
 [概述](第一部分：概述.md)
